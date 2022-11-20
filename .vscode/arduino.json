@@ -1,0 +1,8 @@
+{
+    "sketch": "blink.ino",
+    "port": "/dev/ttyS0",
+    "board": "adafruit:samd:adafruit_feather_m0",
+    "output": "../build",
+    "debugger": "jlink",
+    "intelliSenseGen": "global"
+}
